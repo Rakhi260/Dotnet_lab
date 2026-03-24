@@ -1,0 +1,15 @@
+D:\.Net-Sem6\Lab\Experiment_Delegates\asynchronousW\asynchronousW\bin\Debug\net10.0\asynchronousW.exe
+D:\.Net-Sem6\Lab\Experiment_Delegates\asynchronousW\asynchronousW\bin\Debug\net10.0\asynchronousW.deps.json
+D:\.Net-Sem6\Lab\Experiment_Delegates\asynchronousW\asynchronousW\bin\Debug\net10.0\asynchronousW.runtimeconfig.json
+D:\.Net-Sem6\Lab\Experiment_Delegates\asynchronousW\asynchronousW\bin\Debug\net10.0\asynchronousW.dll
+D:\.Net-Sem6\Lab\Experiment_Delegates\asynchronousW\asynchronousW\bin\Debug\net10.0\asynchronousW.pdb
+D:\.Net-Sem6\Lab\Experiment_Delegates\asynchronousW\asynchronousW\obj\Debug\net10.0\asynchronousW.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net-Sem6\Lab\Experiment_Delegates\asynchronousW\asynchronousW\obj\Debug\net10.0\asynchronousW.AssemblyInfoInputs.cache
+D:\.Net-Sem6\Lab\Experiment_Delegates\asynchronousW\asynchronousW\obj\Debug\net10.0\asynchronousW.AssemblyInfo.cs
+D:\.Net-Sem6\Lab\Experiment_Delegates\asynchronousW\asynchronousW\obj\Debug\net10.0\asynchronousW.csproj.CoreCompileInputs.cache
+D:\.Net-Sem6\Lab\Experiment_Delegates\asynchronousW\asynchronousW\obj\Debug\net10.0\asynchronousW.sourcelink.json
+D:\.Net-Sem6\Lab\Experiment_Delegates\asynchronousW\asynchronousW\obj\Debug\net10.0\asynchronousW.dll
+D:\.Net-Sem6\Lab\Experiment_Delegates\asynchronousW\asynchronousW\obj\Debug\net10.0\refint\asynchronousW.dll
+D:\.Net-Sem6\Lab\Experiment_Delegates\asynchronousW\asynchronousW\obj\Debug\net10.0\asynchronousW.pdb
+D:\.Net-Sem6\Lab\Experiment_Delegates\asynchronousW\asynchronousW\obj\Debug\net10.0\asynchronousW.genruntimeconfig.cache
+D:\.Net-Sem6\Lab\Experiment_Delegates\asynchronousW\asynchronousW\obj\Debug\net10.0\ref\asynchronousW.dll

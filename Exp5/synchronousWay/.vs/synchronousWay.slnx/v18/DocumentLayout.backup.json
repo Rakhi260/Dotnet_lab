@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net-Sem6\\Lab\\Experiment_Delegates\\synchronousWay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C4B941-ABB3-4FF7-965D-E6DD896A94EB}|synchronousWay\\synchronousWay.csproj|d:\\.net-sem6\\lab\\experiment_delegates\\synchronousway\\synchronousway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C4B941-ABB3-4FF7-965D-E6DD896A94EB}|synchronousWay\\synchronousWay.csproj|solutionrelative:synchronousway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net-Sem6\\Lab\\Experiment_Delegates\\synchronousWay\\synchronousWay\\Program.cs",
+              "RelativeDocumentMoniker": "synchronousWay\\Program.cs",
+              "ToolTip": "D:\\.Net-Sem6\\Lab\\Experiment_Delegates\\synchronousWay\\synchronousWay\\Program.cs",
+              "RelativeToolTip": "synchronousWay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T06:30:31.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

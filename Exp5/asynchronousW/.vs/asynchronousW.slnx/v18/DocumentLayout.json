@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net-Sem6\\Lab\\Experiment_Delegates\\asynchronousW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1991EA3-7419-4D3B-BDC5-2D9754A94699}|asynchronousW\\asynchronousW.csproj|d:\\.net-sem6\\lab\\experiment_delegates\\asynchronousw\\asynchronousw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1991EA3-7419-4D3B-BDC5-2D9754A94699}|asynchronousW\\asynchronousW.csproj|solutionrelative:asynchronousw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net-Sem6\\Lab\\Experiment_Delegates\\asynchronousW\\asynchronousW\\Program.cs",
+              "RelativeDocumentMoniker": "asynchronousW\\Program.cs",
+              "ToolTip": "D:\\.Net-Sem6\\Lab\\Experiment_Delegates\\asynchronousW\\asynchronousW\\Program.cs",
+              "RelativeToolTip": "asynchronousW\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T06:31:54.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

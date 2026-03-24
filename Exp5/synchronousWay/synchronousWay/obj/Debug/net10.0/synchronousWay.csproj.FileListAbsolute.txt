@@ -1,0 +1,15 @@
+D:\.Net-Sem6\Lab\Experiment_Delegates\synchronousWay\synchronousWay\bin\Debug\net10.0\synchronousWay.exe
+D:\.Net-Sem6\Lab\Experiment_Delegates\synchronousWay\synchronousWay\bin\Debug\net10.0\synchronousWay.deps.json
+D:\.Net-Sem6\Lab\Experiment_Delegates\synchronousWay\synchronousWay\bin\Debug\net10.0\synchronousWay.runtimeconfig.json
+D:\.Net-Sem6\Lab\Experiment_Delegates\synchronousWay\synchronousWay\bin\Debug\net10.0\synchronousWay.dll
+D:\.Net-Sem6\Lab\Experiment_Delegates\synchronousWay\synchronousWay\bin\Debug\net10.0\synchronousWay.pdb
+D:\.Net-Sem6\Lab\Experiment_Delegates\synchronousWay\synchronousWay\obj\Debug\net10.0\synchronousWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net-Sem6\Lab\Experiment_Delegates\synchronousWay\synchronousWay\obj\Debug\net10.0\synchronousWay.AssemblyInfoInputs.cache
+D:\.Net-Sem6\Lab\Experiment_Delegates\synchronousWay\synchronousWay\obj\Debug\net10.0\synchronousWay.AssemblyInfo.cs
+D:\.Net-Sem6\Lab\Experiment_Delegates\synchronousWay\synchronousWay\obj\Debug\net10.0\synchronousWay.csproj.CoreCompileInputs.cache
+D:\.Net-Sem6\Lab\Experiment_Delegates\synchronousWay\synchronousWay\obj\Debug\net10.0\synchronousWay.sourcelink.json
+D:\.Net-Sem6\Lab\Experiment_Delegates\synchronousWay\synchronousWay\obj\Debug\net10.0\synchronousWay.dll
+D:\.Net-Sem6\Lab\Experiment_Delegates\synchronousWay\synchronousWay\obj\Debug\net10.0\refint\synchronousWay.dll
+D:\.Net-Sem6\Lab\Experiment_Delegates\synchronousWay\synchronousWay\obj\Debug\net10.0\synchronousWay.pdb
+D:\.Net-Sem6\Lab\Experiment_Delegates\synchronousWay\synchronousWay\obj\Debug\net10.0\synchronousWay.genruntimeconfig.cache
+D:\.Net-Sem6\Lab\Experiment_Delegates\synchronousWay\synchronousWay\obj\Debug\net10.0\ref\synchronousWay.dll

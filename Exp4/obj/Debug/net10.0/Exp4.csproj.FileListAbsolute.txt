@@ -1,0 +1,15 @@
+D:\.NET DEV\Exp4\bin\Debug\net10.0\Exp4.exe
+D:\.NET DEV\Exp4\bin\Debug\net10.0\Exp4.deps.json
+D:\.NET DEV\Exp4\bin\Debug\net10.0\Exp4.runtimeconfig.json
+D:\.NET DEV\Exp4\bin\Debug\net10.0\Exp4.dll
+D:\.NET DEV\Exp4\bin\Debug\net10.0\Exp4.pdb
+D:\.NET DEV\Exp4\obj\Debug\net10.0\Exp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET DEV\Exp4\obj\Debug\net10.0\Exp4.AssemblyInfoInputs.cache
+D:\.NET DEV\Exp4\obj\Debug\net10.0\Exp4.AssemblyInfo.cs
+D:\.NET DEV\Exp4\obj\Debug\net10.0\Exp4.csproj.CoreCompileInputs.cache
+D:\.NET DEV\Exp4\obj\Debug\net10.0\Exp4.sourcelink.json
+D:\.NET DEV\Exp4\obj\Debug\net10.0\Exp4.dll
+D:\.NET DEV\Exp4\obj\Debug\net10.0\refint\Exp4.dll
+D:\.NET DEV\Exp4\obj\Debug\net10.0\Exp4.pdb
+D:\.NET DEV\Exp4\obj\Debug\net10.0\Exp4.genruntimeconfig.cache
+D:\.NET DEV\Exp4\obj\Debug\net10.0\ref\Exp4.dll

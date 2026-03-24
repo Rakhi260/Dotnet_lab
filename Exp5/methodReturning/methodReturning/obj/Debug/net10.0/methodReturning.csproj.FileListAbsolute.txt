@@ -1,0 +1,15 @@
+D:\.Net-Sem6\Exp5\methodReturning\methodReturning\bin\Debug\net10.0\methodReturning.exe
+D:\.Net-Sem6\Exp5\methodReturning\methodReturning\bin\Debug\net10.0\methodReturning.deps.json
+D:\.Net-Sem6\Exp5\methodReturning\methodReturning\bin\Debug\net10.0\methodReturning.runtimeconfig.json
+D:\.Net-Sem6\Exp5\methodReturning\methodReturning\bin\Debug\net10.0\methodReturning.dll
+D:\.Net-Sem6\Exp5\methodReturning\methodReturning\bin\Debug\net10.0\methodReturning.pdb
+D:\.Net-Sem6\Exp5\methodReturning\methodReturning\obj\Debug\net10.0\methodReturning.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net-Sem6\Exp5\methodReturning\methodReturning\obj\Debug\net10.0\methodReturning.AssemblyInfoInputs.cache
+D:\.Net-Sem6\Exp5\methodReturning\methodReturning\obj\Debug\net10.0\methodReturning.AssemblyInfo.cs
+D:\.Net-Sem6\Exp5\methodReturning\methodReturning\obj\Debug\net10.0\methodReturning.csproj.CoreCompileInputs.cache
+D:\.Net-Sem6\Exp5\methodReturning\methodReturning\obj\Debug\net10.0\methodReturning.sourcelink.json
+D:\.Net-Sem6\Exp5\methodReturning\methodReturning\obj\Debug\net10.0\methodReturning.dll
+D:\.Net-Sem6\Exp5\methodReturning\methodReturning\obj\Debug\net10.0\refint\methodReturning.dll
+D:\.Net-Sem6\Exp5\methodReturning\methodReturning\obj\Debug\net10.0\methodReturning.pdb
+D:\.Net-Sem6\Exp5\methodReturning\methodReturning\obj\Debug\net10.0\methodReturning.genruntimeconfig.cache
+D:\.Net-Sem6\Exp5\methodReturning\methodReturning\obj\Debug\net10.0\ref\methodReturning.dll
