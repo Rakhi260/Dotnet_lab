@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.Net-Sem6\\Exp2\\Exp2.csproj": {}
+    "D:\\SEM-06\\dotnet_lab\\dotnet\\Exp2\\Exp2.csproj": {}
   },
   "projects": {
-    "D:\\.Net-Sem6\\Exp2\\Exp2.csproj": {
+    "D:\\SEM-06\\dotnet_lab\\dotnet\\Exp2\\Exp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Net-Sem6\\Exp2\\Exp2.csproj",
+        "projectUniqueName": "D:\\SEM-06\\dotnet_lab\\dotnet\\Exp2\\Exp2.csproj",
         "projectName": "Exp2",
-        "projectPath": "D:\\.Net-Sem6\\Exp2\\Exp2.csproj",
-        "packagesPath": "C:\\Users\\SUYOG P\\.nuget\\packages\\",
-        "outputPath": "D:\\.Net-Sem6\\Exp2\\obj\\",
+        "projectPath": "D:\\SEM-06\\dotnet_lab\\dotnet\\Exp2\\Exp2.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\SEM-06\\dotnet_lab\\dotnet\\Exp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SUYOG P\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

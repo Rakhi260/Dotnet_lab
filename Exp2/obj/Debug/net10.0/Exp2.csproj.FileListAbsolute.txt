@@ -26,3 +26,11 @@ D:\.NET DEV\Exp2\obj\Debug\net10.0\refint\Exp2.dll
 D:\.NET DEV\Exp2\obj\Debug\net10.0\Exp2.pdb
 D:\.NET DEV\Exp2\obj\Debug\net10.0\Exp2.genruntimeconfig.cache
 D:\.NET DEV\Exp2\obj\Debug\net10.0\ref\Exp2.dll
+D:\SEM-06\dotnet_lab\dotnet\Exp2\obj\Debug\net10.0\Exp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM-06\dotnet_lab\dotnet\Exp2\obj\Debug\net10.0\Exp2.AssemblyInfoInputs.cache
+D:\SEM-06\dotnet_lab\dotnet\Exp2\obj\Debug\net10.0\Exp2.AssemblyInfo.cs
+D:\SEM-06\dotnet_lab\dotnet\Exp2\obj\Debug\net10.0\Exp2.csproj.CoreCompileInputs.cache
+D:\SEM-06\dotnet_lab\dotnet\Exp2\obj\Debug\net10.0\Exp2.sourcelink.json
+D:\SEM-06\dotnet_lab\dotnet\Exp2\obj\Debug\net10.0\Exp2.dll
+D:\SEM-06\dotnet_lab\dotnet\Exp2\obj\Debug\net10.0\refint\Exp2.dll
+D:\SEM-06\dotnet_lab\dotnet\Exp2\obj\Debug\net10.0\Exp2.pdb
